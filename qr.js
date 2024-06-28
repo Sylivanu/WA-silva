@@ -59,27 +59,27 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*FREDI_ADAMS_MD*
-*FREDI_ADAMS*
+*𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉*
+*𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉*
 *𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍』
 
-║ ❒ FREDI_ADAMS: _https://wa.link/4wz6zv_
+║ ❒ 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉: _https://wa.me/254743706010_
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@freeonlinetvT1_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@silvaedits254_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.link/4wz6zv_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254743706010_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_
 
 ║ 
 ╚════════════════════╝ 
- *FREDI_ADAMS_MD*
+ *𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`
